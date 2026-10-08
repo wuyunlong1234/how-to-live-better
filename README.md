@@ -55,3 +55,5 @@ python build.py 1 2 16 --repo /tmp/upstream
 ## 授权
 
 原书内容为 Unlicense（公有领域）。本仓库的构建脚本同样不作任何权利保留。
+
+本副本为个人备份复刻用途
